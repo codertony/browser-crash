@@ -1377,6 +1377,16 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
+benz-amr-recorder@^1.0.17:
+  version "1.0.17"
+  resolved "https://registry.npm.taobao.org/benz-amr-recorder/download/benz-amr-recorder-1.0.17.tgz#6537a73ed70fcd3cfec253e8f4d6d3c850dda50d"
+  dependencies:
+    benz-recorderjs "^1.0.5"
+
+benz-recorderjs@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npm.taobao.org/benz-recorderjs/download/benz-recorderjs-1.0.5.tgz#5cb2683413d3d5fcda8c44773ffaca161186619f"
+
 bfj@^6.1.1:
   version "6.1.2"
   resolved "https://registry.npm.taobao.org/bfj/download/bfj-6.1.2.tgz#325c861a822bcb358a41c78a33b8e6e2086dde7f"
